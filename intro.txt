@@ -21,3 +21,5 @@ Kế hoạch học tập:
 - Tuần 3: CI/CD cơ bản, viết README/CHANGELOG.
 - Tuần 4: Thực hành dự án mini theo nhóm.
 - Duy trì: Ghi log học tập mỗi ngày.
+
+Conflict resolved on 07/10/2025
